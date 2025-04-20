@@ -13,3 +13,7 @@ T
 $contracts/property-verification.clar,9/2/92aedc8494904be11f2c1570671ab7c7affd1770
 S
 #tests/property-verification.test.ts,2/4/24ed03513bc4144786f1838c91c7ee0e72c40d8a
+N
+contracts/room-allocation.clar,6/9/69ffb43b0ee0986f0f6a0360e403ced4d37cdc6b
+M
+tests/room-allocation.test.ts,9/d/9d74e5f6a8f79c9019ec55e6a021fdf31aa121b6
